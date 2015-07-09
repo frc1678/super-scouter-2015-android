@@ -1,0 +1,8 @@
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/classes/debug
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-857f53327bcd92171b2e5d706e05c303b8cf0af4.jar
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/dropbox-sync-sdk-android-83306dd8b3822523cdc4273cade0e8f1f7c16150.jar
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-tests-1d676c53bd136b243fa76a124f779652c86e7a8d.jar
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-3b362aa998f7eee90450be8c471a80a784236aa1.jar
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-sources-c81ff50e442c7a2eea5ed816c7f262821c7cb60a.jar
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-javadoc-2d93240a9b7bdc0feeff04ad7cd543ca89be967c.jar
+/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/realm-android-0.76.0-6b88447fd37804d35a3023e9245b2842e83e5174.jar

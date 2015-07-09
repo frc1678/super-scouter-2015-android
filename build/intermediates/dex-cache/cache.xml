@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/citruscircuits/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.76.0/a3f0979d8490624ade14270ab05110aed04857f3/realm-android-0.76.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3f0979d8490624ade14270ab05110aed04857f3">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/realm-android-0.76.0-6b88447fd37804d35a3023e9245b2842e83e5174.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-3b362aa998f7eee90450be8c471a80a784236aa1.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/super-scouter-2015-android/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-857f53327bcd92171b2e5d706e05c303b8cf0af4.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/super-scouter-2015-android/app/libs/commons-io-2.4-sources.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2d8698c46d1167ff24b06a840a87d91a02db891">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-sources-c81ff50e442c7a2eea5ed816c7f262821c7cb60a.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/super-scouter-2015-android/app/libs/commons-io-2.4-tests.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="70dd7538052e95d127313bebe11ca119c4a72eca">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-tests-1d676c53bd136b243fa76a124f779652c86e7a8d.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/super-scouter-2015-android/app/libs/commons-io-2.4-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b5b0183c509963d5ffdf0d9d452a4a7521aeaa3">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/commons-io-2.4-javadoc-2d93240a9b7bdc0feeff04ad7cd543ca89be967c.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/super-scouter-2015-android/app/libs/dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6b95cff6b750c366f8c49084b8b93430e0db220e">
+        <dex dex="/Users/citruscircuits/super-scouter-2015-android/app/build/intermediates/pre-dexed/debug/dropbox-sync-sdk-android-83306dd8b3822523cdc4273cade0e8f1f7c16150.jar" />
+    </item>
+
+</items>

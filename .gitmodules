@@ -1,0 +1,6 @@
+[submodule "app/src/main/java/org/citruscircuits/realm-database-2015"]
+	path = app/src/main/java/org/citruscircuits/realm-database-2015
+	url = https://github.com/frc1678/realm-database-2015.git
+[submodule "app/src/main/java/org/citruscircuits/realm"]
+	path = app/src/main/java/org/citruscircuits/realm
+	url = https://github.com/frc1678/realm-database-2015.git

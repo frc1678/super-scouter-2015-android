@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText
+        android:id="@+id/team3TextField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/team2TextField"
+        android:layout_below="@+id/team2TextField"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/team2TextField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/team1TextField"
+        android:layout_below="@+id/team1TextField"
+        android:layout_marginTop="21dp"
+        android:ems="10"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/team3TextField"
+        android:layout_below="@+id/team3TextField"
+        android:layout_marginLeft="68dp"
+        android:layout_marginTop="30dp"
+        android:text="Scout!"
+        android:onClick = "scoutTapped" />
+
+    <EditText
+        android:id="@+id/matchTextField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:singleLine="true"
+        android:textSize="30dp" />
+
+    <EditText
+        android:id="@+id/team1TextField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/matchTextField"
+        android:layout_below="@+id/allianceColorTextView"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/allianceColorTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/team1TextField"
+        android:layout_below="@+id/matchTextField"
+        android:layout_marginTop="41dp"
+        android:text="Red Alliance"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ff0000" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/cat_new" 
+        android:paddingStart="20dp"
+        android:onClick="kittyClicked"/>
+
+</RelativeLayout>

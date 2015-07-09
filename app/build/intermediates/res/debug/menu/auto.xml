@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_done"
+        android:icon="@android:drawable/ic_menu_send"
+        android:showAsAction="ifRoom|withText"
+        android:title="Next"/>
+
+</menu><!-- From: file:/Users/citruscircuits/super-scouter-2015-android/app/src/main/res/menu/auto.xml -->
